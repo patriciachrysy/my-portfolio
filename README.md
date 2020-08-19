@@ -13,7 +13,7 @@ Project description.
 
 ## Live Demo
 
-[Live Demo Link](https://gracious-visvesvaraya-4b8afd.netlify.app/)
+[Live Demo Link](https://manezeu-patricia.netlify.app/)
 
 
 ## Getting Started
@@ -59,8 +59,8 @@ To get a local copy up and running follow these simple example steps.
 👤 Manezeu Patricia Chrystelle
 
 - Github: [@githubhandle](https://github.com/patriciachrysy)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- Linkedin: [linkedin](https://linkedin.com/linkedinhandle)
+- Twitter: [@twitterhandle](https://twitter.com/ManezeuP)
+- Linkedin: [linkedin](https://www.linkedin.com/in/manezeu-patricia-chrystelle/)
 
 ## 🤝 Contributing
 
